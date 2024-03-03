@@ -43,7 +43,7 @@ export const HIGHLIGHTS: Highlights[] = [
       buttonText: "view our pricing",
       header: "built-in analytics to track your NFTs",
       imgAlign: "right",
-      imgSrc: "https://i.ibb.co/Cw6QZpC/analytics.png",
+      imgSrc: "https://i.ibb.co/jVQ7W7W/analytics-1.png",
       paragraph:
          "Use our built-in analytics dashboard to pull valuable insights and monitor the value of your Krypto portfolio over time.",
       title: "Analytics",
@@ -52,7 +52,7 @@ export const HIGHLIGHTS: Highlights[] = [
       buttonText: "Download on ios",
       header: "browse NFTs from your smartphone",
       imgAlign: "left",
-      imgSrc: "https://i.ibb.co/HdV8K5g/download.png",
+      imgSrc: "https://i.ibb.co/3SJBLtg/download-1.png",
       paragraph:
          "Our Krypto app is the easiest way to keep track of your assets when you’re on the go.",
       title: "Get our app",
@@ -63,19 +63,19 @@ export const TESTIMONIALS: Testimonial[] = [
    {
       feedback:
          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel.",
-      imgSrc: "https://i.ibb.co/88cXZSp/client2.png",
+      imgSrc: "https://i.ibb.co/PCHfRN9/client2.jpg",
       name: "Tony Stark",
    },
    {
       feedback:
          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel.",
-      imgSrc: "https://i.ibb.co/qCNfbvd/client3.png",
+      imgSrc: "https://i.ibb.co/YBPxq7S/client3.jpg",
       name: "Nat Romanoff",
    },
    {
       feedback:
          "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ullamcorper scelerisque mi, in malesuada felis malesuada vel.",
-      imgSrc: "https://i.ibb.co/4T4YF3p/client1.png",
+      imgSrc: "https://i.ibb.co/7yfzYNy/client1.jpg",
       name: "Carol Danvers",
    },
 ];

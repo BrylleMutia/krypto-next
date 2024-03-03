@@ -28,7 +28,7 @@ const Hero = () => {
                <div className="absolute z-[-99] w-[30%] h-[50%] right-[0%] top-[40%] rounded-full accent__gradient"></div>
             </div>
             <Image
-               src="/hero.png"
+               src="https://i.ibb.co/BNnk7Qt/hero.png"
                alt="hero"
                className="w-[50%] h-[50%] min-w-[250px]"
                width={500}
